@@ -73,7 +73,7 @@ Acredito que com esforço e persistência é possível alcançar grandes resulta
 <br/>
 
 
-### 📱 Conete-se comigo:
+### 📱 Fale comigo:
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](https://mail.google.com/mail/?view=cm&to=layssamartins12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/layssa-evellyn-22a872345/)
