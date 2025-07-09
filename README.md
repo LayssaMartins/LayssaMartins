@@ -1,16 +1,110 @@
-## Hi there 👋
+# 👩🏾‍💻 Layssa Martins
 
-<!--
-**LayssaMartins/LayssaMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora em formação`**
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação (4º período) e Técnica em Redes de Computadores, apaixonada por tecnologia.
+Atualmente, estou me dedicando à área de Desenvolvimento  e estou em busca de oportunidades que me permitam crescer profissionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui no GitHub, vou compartilhar os projetos que estou construindo ao longo da minha caminhada como dev em formação, sempre buscando aprender e evoluir.
+Gosto de encarar desafios e contribuir com comprometimento, criatividade e dedicação.
+Acredito que com esforço e persistência é possível alcançar grandes resultados, sempre evoluindo um passo de cada vez.
+
+"Cada projeto é uma chance de aprender, crescer e construir o futuro que sonho." 🚀💡💻
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+### <p>
+  <img 
+    align="left" 
+    alt="Linkedin" 
+    height="42" 
+    style="padding-right: 10px;" 
+    src="https://www.gov.br/cdtn/pt-br/canais_atendimento/linkedin.png/@@images/image" 
+  />
+</p> Linkedin:
+
+https://www.linkedin.com/in/layssa-evellyn-22a872345/
+          
+
+
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LayssaMartins&theme=tokyonight&locale=pt-br" 
+  />
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayssaMartins&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&locale=pt-br" 
+  />
+</p>
+
