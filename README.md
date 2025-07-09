@@ -73,18 +73,10 @@ Acredito que com esforço e persistência é possível alcançar grandes resulta
 <br/>
 
 
-### <p>
-  <img 
-    align="left" 
-    alt="Linkedin" 
-    height="42" 
-    style="padding-right: 10px;" 
-    src="https://www.gov.br/cdtn/pt-br/canais_atendimento/linkedin.png/@@images/image" 
-  />
-</p> Linkedin:
+### 📱 Conete-se comigo:
 
-https://www.linkedin.com/in/layssa-evellyn-22a872345/
-          
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:layssamartins12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/layssa-evellyn-22a872345/)
 
 
 
@@ -107,4 +99,5 @@ https://www.linkedin.com/in/layssa-evellyn-22a872345/
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayssaMartins&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight&locale=pt-br" 
   />
 </p>
+
 
