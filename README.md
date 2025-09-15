@@ -40,8 +40,14 @@ Acredito que com esforço e persistência é possível alcançar grandes resulta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -50,7 +56,6 @@ Acredito que com esforço e persistência é possível alcançar grandes resulta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Java" 
@@ -59,7 +64,14 @@ Acredito que com esforço e persistência é possível alcançar grandes resulta
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
 />
-
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -67,6 +79,14 @@ Acredito que com esforço e persistência é possível alcançar grandes resulta
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
 <br/>
