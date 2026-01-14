@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Sou estudante de Ciência da Computação (4º período) e Técnica em Redes de Computadores, apaixonada por tecnologia.
+Sou estudante de Ciência da Computação (5º período) e Técnica em Redes de Computadores, apaixonada por tecnologia.
 Atualmente, estou me dedicando à área de Desenvolvimento  e estou em busca de oportunidades que me permitam crescer profissionalmente.
 
 Aqui no GitHub, vou compartilhar os projetos que estou construindo ao longo da minha caminhada como dev em formação, sempre buscando aprender e evoluir.
